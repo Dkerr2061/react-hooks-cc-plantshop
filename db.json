@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Aloe",
       "image": "./images/aloe.jpg",
-      "price": 15.99
+      "price": 12.99
     },
     {
       "id": 2,
@@ -41,6 +41,24 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Snake Plant",
+      "image": "https://www.michlers.com/cdn/shop/products/SnakePlant.jpg?v=1675204628&width=2048",
+      "price": 24.99,
+      "id": 8
+    },
+    {
+      "name": "Hibiscus",
+      "image": "https://tropicalplantsofflorida.com/wp-content/uploads/Hibiscus-Painted-Lady.jpg",
+      "price": 47.99,
+      "id": 9
+    },
+    {
+      "name": "Blue plant",
+      "image": "https://www.thespruce.com/thmb/DvGbGupgIyytaawQciUd29UJeMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blue-Poppy-57f769015f9b586c3515d366.jpg",
+      "price": 7.99,
+      "id": 10
     }
   ]
 }
