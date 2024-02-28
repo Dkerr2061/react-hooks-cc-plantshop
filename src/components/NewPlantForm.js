@@ -13,10 +13,10 @@ function NewPlantForm({ addPlant }) {
   
   function handleNewPlantSubmit(event) {
     event.preventDefault()
-    const priceOfItem = parseFloat(newPlant.price)
-    
-     addPlant({...newPlant, price: priceOfItem})
-    // addNewPlant({...newPlant})
+    addPlant({...newPlant})
+      // The code below will pass the value of price as a number which is the proper way to do this challenge.
+        // const priceOfItem = parseFloat(newPlant.price)
+        // addPlant({...newPlant, price: priceOfItem})
   }
 
 

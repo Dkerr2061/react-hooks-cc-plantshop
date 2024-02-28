@@ -57,7 +57,7 @@
     {
       "name": "Blue plant",
       "image": "https://www.thespruce.com/thmb/DvGbGupgIyytaawQciUd29UJeMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blue-Poppy-57f769015f9b586c3515d366.jpg",
-      "price": 7.99,
+      "price": "10.99",
       "id": 10
     }
   ]
